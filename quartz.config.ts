@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Gowun Dodum",
-        body: "Gowun Dodun",
+        body: "Gowun Dodum",
         code: "JetBrains Mono",
       },
       colors: {
