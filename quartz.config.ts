@@ -25,8 +25,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Gowun Dodum",
-        body: "Gowun Dodum",
+        header: "Noto Sans Korean",
+        body: "Noto Sans Korean",
         code: "JetBrains Mono",
       },
       colors: {
