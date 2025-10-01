@@ -1,6 +1,7 @@
 ---
 title: EunSung.log
 date: 2025-02-11
+updated: 2025-10-01
 draft: false
 ---
 # EunSung.log
@@ -14,6 +15,7 @@ draft: false
 - [[공부]]
 - 기록
 	- [[코딩 문제 풀이]]
+	- [[2025년 회고]]
 - [[서랍]]
 
 
