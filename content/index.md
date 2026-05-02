@@ -1,7 +1,7 @@
 ---
 title: EunSung.log
 date: 2025-02-11
-updated: 2025-10-01
+updated: 2026-05-02
 draft: false
 ---
 # EunSung.log
@@ -11,5 +11,5 @@ draft: false
 개인 기록 저장소.  
 다음과 같은 내용을 다룬다.
 ## 카테고리
-
+- [[PS 기록]]
 
